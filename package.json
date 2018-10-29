@@ -1,6 +1,6 @@
 {
   "name": "xd-plugin-helper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "collection of useful helpers to develop plugins for Adobe XD",
   "main": "index.js",
   "directories": {
