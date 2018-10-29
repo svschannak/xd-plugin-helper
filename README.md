@@ -30,5 +30,5 @@ import { XDNodeErrorRectangle } from "xd-plugin-helper";
 
 const xdNode = // actual XD Node
 const error = new XDNodeErrorRectangle(xdNode);
-error.create("Your actual message");
+error.create("Your error message");
 ```
