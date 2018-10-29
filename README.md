@@ -19,8 +19,9 @@ const errors = [
     node: //add an actual node from XD,
     msg: //error text you want to display
 ]
+const xdSelectionNode = //selection object you receive from XD
 
-const errorGroup = new XDNodeErrorGroup(errorNodeList);
+const errorGroup = new XDNodeErrorGroup(errorNodeList, xdSelectionNode);
 errorGroup.addErrors();
 ```
 

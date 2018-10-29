@@ -1,0 +1,27 @@
+{
+  "name": "xd-plugin-helper",
+  "version": "1.0.1",
+  "description": "collection of useful helpers to develop plugins for Adobe XD",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svschannak/xd-plugin-helper.git"
+  },
+  "keywords": [
+    "adobe",
+    "xd",
+    "plugin"
+  ],
+  "author": "Sven Schannak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svschannak/xd-plugin-helper/issues"
+  },
+  "homepage": "https://github.com/svschannak/xd-plugin-helper#readme"
+}
