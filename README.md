@@ -4,6 +4,18 @@ Adobe XD is a great tool to create interactive prototypes for user experiences. 
 
 The library will be extended and you can always push merge requests to add your own helpers.
 
+## Installation
+
+```bash
+yarn add xd-plugin-helper
+```
+or
+
+```bash
+npm install xd-plugin-helper
+```
+
+
 ## Available Helpers
 
 ### Error Rectangle
