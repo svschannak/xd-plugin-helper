@@ -46,6 +46,13 @@ const error = new XDNodeErrorRectangle(xdNode);
 error.create("Your error message");
 ```
 
+# Contributors
+The initial project was created at the Tel Aviv Design Tools Hackathon in 2018.
+Members of the group were:
+
+* @svschannak
+* @pallavimonicaekka
+
 # MIT License
 
 Copyright (c) 2018 Sven Schannak
